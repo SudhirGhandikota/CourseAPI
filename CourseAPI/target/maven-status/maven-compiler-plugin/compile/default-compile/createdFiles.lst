@@ -1,0 +1,6 @@
+com\Test\CourseAPI\service\CourseApiService.class
+com\Test\CourseAPI\service\CourseServiceBean.class
+com\Test\CourseAPI\Application.class
+com\Test\CourseAPI\model\Course.class
+com\Test\CourseAPI\repository\CourseRepository.class
+com\Test\CourseAPI\web\CourseController.class
